@@ -1,6 +1,6 @@
-Repositorio do desafio de projeto Git/GitHub da Dio
-Desafio de projeto sobre Git/GitHub
+Repositorio criado para o desafio de projeto Git/GitHub da Dio
 
 ## Links uteis
-[Linkedln](https://www.linkedin.com/in/rafaelfonseca-berlin/)
+[Meu Linkedln](https://www.linkedin.com/in/rafaelfonseca-berlin/)
+
 [Sintaxe Basica Markdown](https://www.markdownguide.org/)
